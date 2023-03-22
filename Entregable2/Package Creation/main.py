@@ -1,8 +1,7 @@
 # import sys to receive arguments from the command line
 import sys
 # import other modules defined in the project
-from package.Utils.mathematical_functions import sum
-from package.Entities.Client import Client
+from ecommerce.Client import Client
 
 # Test that package import works
 a, b = sys.argv[1:]
