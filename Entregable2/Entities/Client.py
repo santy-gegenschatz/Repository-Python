@@ -1,4 +1,4 @@
-import Person
+from .Person import *
 
 class Client(Person):
     def __init__(self, name, surname, age, address, phone, email, password, client_id):
