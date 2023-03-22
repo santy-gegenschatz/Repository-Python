@@ -1,0 +1,10 @@
+setup.py
+ecommerce.egg-info/PKG-INFO
+ecommerce.egg-info/SOURCES.txt
+ecommerce.egg-info/dependency_links.txt
+ecommerce.egg-info/top_level.txt
+my_first_package/Cart.py
+my_first_package/Client.py
+my_first_package/Person.py
+my_first_package/Product.py
+my_first_package/__init__.py
